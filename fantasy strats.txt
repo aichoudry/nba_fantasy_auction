@@ -1,0 +1,14 @@
+points to win: 15,000
+jokic: scores 4200 points
+
+4200 = average over n past seasons, remove outliers (injury seasons)
+4200/15,000 = 28%
+
+28% of 200 = $56 & 
+(number of players within k standard deviations around him) 
+
+F($56, number of players within k standard deviations, higher percentage means more points for less slots, how much money you have left)
+
+if other players are playing more then
+you should be able to spend more
+

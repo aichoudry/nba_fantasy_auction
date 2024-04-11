@@ -1,0 +1,1 @@
+Q2: Runtime is polynomial since sorting takes nlog(n) time and the loop takes n time. nlog(n) + n is polynomial time.
